@@ -1,1 +1,2 @@
-var wordArray = [goblin]
+var wordArray = ["goblin", "witch", "pumpkin", "ghost"];
+
